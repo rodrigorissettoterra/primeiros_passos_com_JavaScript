@@ -1,2 +1,3 @@
-# primeiros_passos_com_JavaScript
-Primeiros passos com JavaScript
+# Primeiros passos com JavaScript
+
+Resultados obtidos à partir do curso de Formação JavaScript Developer, da DIO.
