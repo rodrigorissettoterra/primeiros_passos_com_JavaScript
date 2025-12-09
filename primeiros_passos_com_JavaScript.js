@@ -1,5 +1,4 @@
-# Código
-
+//CÓDIGO
 // PRIMEIROS PASSOS
 // imprimindo texto na tela
 console.log(`PRIMEIROS PASSOS`);
@@ -246,3 +245,61 @@ for (let i = 0; i < notas.length; i++) {
 
 const media = (somaNotas / notas.length).toFixed(2)
 console.log(`O aluno realizou ` + notas.length + ` atividades, suas notas foram: ` + notas + `, e sua média final, foi: ` + media)
+
+
+//RESULTADOS OBTIDOS
+[Running] node "c:\Users\rodrigo.terra\Área de Trabalho\primeiros_passos_com_JavaScript.js"
+PRIMEIROS PASSOS
+Hello, world!
+Minha primeira variável armazenada: 10
+Constante PI: 3.14
+
+MINHA PRIMEIRA OPERAÇÃO MATEMÁTICA
+A soma de 10 e 5, é: 15
+
+CALCULADORA DE GASTOS COM GASOLINA
+Para uma viagem de 100km, com consumo médio de 8.23km/l e preço da gasolina a R$ 6.51/litro, iremos gastar R$79.10.
+
+VERIFICAÇÃO SE UM NÚMERO É PAR OU ÍMPAR
+o número 11 é ímpar.
+o número 6 é par.
+
+CALCULADORA DE GASTOS COM COMBUSTÍVEL (Álcool ou Gasolina)
+Para uma viagem de 100km, com consumo médio de 8.23km/l para gasolina,
+     com consumoe médio de 7.11km/l, o preço da gasolina a R$6.51/litro, 
+     o preço do Álcool a R$4.51/litro, iremos gastar R$79.10 com Gasolina ou R$63.43
+     com Álcool.
+CONCLUSÃO: Abastecer com Álcool!
+
+Trabalhando com funções: Say My Name
+Your name is Rodrigo
+
+Trabalhando com funções: Cálculo de montante com juros
+Valor inicial: R$ 100
+Taxa de juros: 15.00%
+Montante: R$ 115.00
+
+calculadora de IMC
+Para um peso de 75 kg e uma altura de 1.75 m, seu IMC, será: 24.49 e sua classificação, será: Peso normal
+
+TRABALHANDO COM OBJETOS
+João do Nascimento nasceu no dia 18 de abril de 1992, na cidade de Recife, que pertence ao estado de Pernambuco
+
+TRABALHANDO COM CLASSES E INSTÂNCIAS
+
+Comparando dados de pessoas diferentes
+Informações sobre Bruna Carolina Vieira Terra: Nasceu em São Paulo, no estado de São Paulo, em 9/dezembro/1985.
+Informações sobre Rodrigo Rissetto Terra: Nasceu em São Paulo, no estado de São Paulo, em 14/setembro/1983.
+
+Rodrigo é mais velho(a) que Bruna Carolina.
+
+TRABALHANDO COM LISTAS
+Lista criada: Rodrigo,Bruna,José
+O primeiro nome registrado nesta listá é: Rodrigo
+O segundo nome registrado nesta listá é: Bruna
+O terceiro nome registrado nesta listá é: José
+
+Calculando a média de 5 notas de provas e verificando se o aluno fez todas as atividades (usando for)
+O aluno realizou 5 atividades, suas notas foram: 5,7,8,2,5, e sua média final, foi: 5.40
+
+[Done] exited with code=0 in 0.2 seconds
